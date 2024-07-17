@@ -1,5 +1,5 @@
 name = "hammal"
-account_id = "your account_id"
+account_id = "f4114f0efdf65b0ee86ed1ff65bddd87"
 main = "src/index.ts"
 workers_dev = true
 compatibility_date = "2024-06-08"
